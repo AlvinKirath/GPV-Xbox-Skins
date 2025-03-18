@@ -1,6 +1,6 @@
 # Welcome to GPV-Xbox-Skins
 
-Hi there! Thanks for stopping by. This repository contains custom Xbox controller skins (PNG images) that can be used in [GamepadViewer](https://gamepadviewer.net/). Follow the instructions below to start using these skins!
+Hi there! Thanks for stopping by. This repository contains custom Xbox controller skins (PNG images) that can be used in [GamepadViewer](https://gamepadviewer.com/). Follow the instructions below to start using these skins!
 
 ---
 
