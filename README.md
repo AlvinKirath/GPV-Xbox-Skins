@@ -16,7 +16,7 @@ Hi there! Thanks for stopping by. This repository contains custom Xbox controlle
    - Make sure the URL ends in `.png`.
 
 3. **Go to GamepadViewer**  
-   - Open [GamepadViewer]([https://gamepadviewer.net/](https://gamepadviewer.com/)) in your browser.  
+   - Open [GamepadViewer](https://gamepadviewer.com/) in your browser.  
    - Plug in or connect your Xbox controller (if it’s not already connected).
 
 4. **Select Your Controller**  
