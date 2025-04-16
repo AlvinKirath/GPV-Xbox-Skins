@@ -6,6 +6,7 @@
   </a>
 </p>
 ---
+
 ### Table of Contents
 - [Skin Previews](#skin-previews)
 - [How to Use These Skins in GamepadViewer](#how-to-use-these-skins-in-gamepadviewer)
@@ -13,6 +14,7 @@
 - [For OBS Users](#for-obs-users)
 - [Contact / Issues](#contact--issues)
 ---
+
 ### Skin Previews
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
@@ -26,6 +28,7 @@
   <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/TW3.png?raw=true" width="200"/>
   <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/Light%20Pink.png?raw=true" width="200"/>
 </div>
+
 ---
 
 Hi there! Thanks for stopping by. This repository contains custom Xbox controller skins (PNG images) that can be used in [GamepadViewer](https://gamepadviewer.com/). Follow the instructions below to start using these skins!
