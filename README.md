@@ -1,25 +1,20 @@
 # Welcome to GPV-Xbox-Skins
 ---
 
-## 📸 Skin Previews
+### Skin Previews
 
-### 🧟 MKX - Ermac
-<img src="MKX%20Ermac.png" width="200"/>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="MKX%20Ermac.png" width="200"/>
+  <img src="DMC4.png" width="200"/>
+  <img src="A7X.png" width="200"/>
+</div>
 
-### 😈 Devil May Cry 4
-<img src="DMC4.png" width="200"/>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="galaxy.png" width="200"/>
+  <img src="TW3.png" width="200"/>
+  <img src="Light%20Pink.png" width="200"/>
+</div>
 
-### 🤘 Avenged Sevenfold (A7X)
-<img src="A7X.png" width="200"/>
-
-### 🌌 Galaxy Theme
-<img src="galaxy.png" width="200"/>
-
-### 🐺 The Witcher 3
-<img src="TW3.png" width="200"/>
-
-### 🌸 Light Pink
-<img src="Light%20Pink.png" width="200"/>
 
 ---
 
