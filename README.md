@@ -105,7 +105,8 @@ Hi there! Thanks for stopping by. This repository contains custom Xbox controlle
      - Download the `obs css paste.txt` file from the repository.
      - After downloading, you can open this file in any text editor or directly copy the code into the OBS Scene -> Browser **Custom CSS** section.
 
-   - [Download Xbox Controller Styling CSS](https://github.com/AlvinKirath/GPV-Xbox-Skins/raw/main/obs%20css%20paste.txt?raw=true)
+   - 📄 [Click here to download the `obs css paste.txt` file](https://github.com/AlvinKirath/GPV-Xbox-Skins/raw/main/obs%20css%20paste.txt?raw=true)
+
 
 2. **Enter Browser URL in OBS:**
    - Use the following URL to open the GPV (Gamepad Viewer) in your OBS Browser Source:  
