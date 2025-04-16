@@ -1,6 +1,9 @@
 # Welcome to GPV-Xbox-Skins
 🎥 **Watch the Setup Guide on YouTube:**  
-[![Watch the Setup Guide on YouTube](https://img.youtube.com/vi/wio7IBKQjVY/hqdefault.jpg)](https://www.youtube.com/watch?v=wio7IBKQjVY&t=167s)
+<a href="https://www.youtube.com/watch?v=wio7IBKQjVY&t=167s" target="_blank">
+  <img src="https://img.youtube.com/vi/wio7IBKQjVY/hqdefault.jpg" alt="Watch the Setup Guide on YouTube" width="400"/>
+</a>
+
 ---
 
 ### Table of Contents
