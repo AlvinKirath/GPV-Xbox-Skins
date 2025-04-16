@@ -5,6 +5,7 @@
     <img src="https://img.youtube.com/vi/wio7IBKQjVY/hqdefault.jpg" alt="Watch the Setup Guide on YouTube" width="400"/>
   </a>
 </p>
+
 ---
 
 ### Table of Contents
@@ -13,21 +14,41 @@
 - [Additional Tips](#additional-tips)
 - [For OBS Users](#for-obs-users)
 - [Contact / Issues](#contact--issues)
+  
 ---
 
 ### Skin Previews
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/MKX%20Ermac.png?raw=true" width="200"/>
-  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/DMC4.png?raw=true" width="200"/>
-  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/A7X.png?raw=true" width="200"/>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/MKX%20Ermac.png?raw=true" target="_blank">
+      <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/MKX%20Ermac.png?raw=true" width="200"/>
+    </a>
+    <a href="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/DMC4.png?raw=true" target="_blank">
+      <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/DMC4.png?raw=true" width="200"/>
+    </a>
+    <a href="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/A7X.png?raw=true" target="_blank">
+      <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/A7X.png?raw=true" width="200"/>
+    </a>
+  </div>
 </div>
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/galaxy.png?raw=true" width="200"/>
-  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/TW3.png?raw=true" width="200"/>
-  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/Light%20Pink.png?raw=true" width="200"/>
+<br/>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/galaxy.png?raw=true" target="_blank">
+      <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/galaxy.png?raw=true" width="200"/>
+    </a>
+    <a href="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/TW3.png?raw=true" target="_blank">
+      <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/TW3.png?raw=true" width="200"/>
+    </a>
+    <a href="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/Light%20Pink.png?raw=true" target="_blank">
+      <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/Light%20Pink.png?raw=true" width="200"/>
+    </a>
+  </div>
 </div>
+
 
 ---
 
