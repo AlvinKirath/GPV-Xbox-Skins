@@ -61,7 +61,8 @@ Hi there! Thanks for stopping by. This repository contains custom Xbox controlle
 ---
 For OBS Specifically use these two codes in Scene -> Browser 
 1 This in Custom CSS (downlaod txt copy and paste in your obs scene browser bottom custom css) 
-[Download Xbox Controller Styling CSS](https://github.com/your-username/your-repository/raw/main/obs%20css%20paste.txt)
+[Download Xbox Controller Styling CSS](https://github.com/AlvinKirath/GPV-Xbox-Skins/raw/main/obs%20css%20paste.txt)
+
 
 
 
