@@ -1,4 +1,28 @@
 # Welcome to GPV-Xbox-Skins
+---
+
+## 📸 Skin Previews
+
+### 🧟 MKX - Ermac
+![MKX Ermac](MKX%20Ermac.png)
+
+### 😈 Devil May Cry 4
+![DMC4](DMC4.png)
+
+### 🤘 Avenged Sevenfold (A7X)
+![A7X](A7X.png)
+
+### 🌌 Galaxy Theme
+![Galaxy](galaxy.png)
+
+### 🐺 The Witcher 3
+![TW3](TW3.png)
+
+### 🌸 Light Pink
+![Light Pink](Light%20Pink.png)
+
+---
+
 
 Hi there! Thanks for stopping by. This repository contains custom Xbox controller skins (PNG images) that can be used in [GamepadViewer](https://gamepadviewer.com/). Follow the instructions below to start using these skins!
 
