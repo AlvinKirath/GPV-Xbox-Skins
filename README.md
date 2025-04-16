@@ -1,5 +1,4 @@
-# Welcome to GPV-Xbox-Skins
-🎥 **Watch the Setup Guide on YouTube:**  
+# Welcome to GPV-Xbox-Skins 
 <h2>🎬 <a href="https://www.youtube.com/watch?v=wio7IBKQjVY&t=167s" target="_blank">Watch the Setup Guide on YouTube:</a></h2>
 
 <div align="center">
@@ -10,12 +9,14 @@
 
 ---
 
+
 ### Table of Contents
 - [Skin Previews](#skin-previews)
 - [How to Use These Skins in GamepadViewer](#how-to-use-these-skins-in-gamepadviewer)
 - [Additional Tips](#additional-tips)
 - [For OBS Users](#for-obs-users)
 - [Contact / Issues](#contact--issues)
+
   
 ---
 
