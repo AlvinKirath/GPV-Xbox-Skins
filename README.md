@@ -7,23 +7,20 @@
 - [Additional Tips](#additional-tips)
 - [For OBS Users](#for-obs-users)
 - [Contact / Issues](#contact--issues)
-
 ---
-
 ### Skin Previews
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="MKX%20Ermac.png" width="200"/>
-  <img src="DMC4.png" width="200"/>
-  <img src="A7X.png" width="200"/>
+  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/MKX%20Ermac.png?raw=true" width="200"/>
+  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/DMC4.png?raw=true" width="200"/>
+  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/A7X.png?raw=true" width="200"/>
 </div>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="galaxy.png" width="200"/>
-  <img src="TW3.png" width="200"/>
-  <img src="Light%20Pink.png" width="200"/>
+  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/galaxy.png?raw=true" width="200"/>
+  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/TW3.png?raw=true" width="200"/>
+  <img src="https://github.com/AlvinKirath/GPV-Xbox-Skins/blob/main/Skins/Light%20Pink.png?raw=true" width="200"/>
 </div>
-
 ---
 
 Hi there! Thanks for stopping by. This repository contains custom Xbox controller skins (PNG images) that can be used in [GamepadViewer](https://gamepadviewer.com/). Follow the instructions below to start using these skins!
