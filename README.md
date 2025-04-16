@@ -1,11 +1,11 @@
 # Welcome to GPV-Xbox-Skins
 🎥 **Watch the Setup Guide on YouTube:**  
-<a href="https://www.youtube.com/watch?v=wio7IBKQjVY&t=167s" target="_blank">
-  <img src="https://img.youtube.com/vi/wio7IBKQjVY/hqdefault.jpg" alt="Watch the Setup Guide on YouTube" width="400"/>
-</a>
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=wio7IBKQjVY&t=167s" target="_blank">
+    <img src="https://img.youtube.com/vi/wio7IBKQjVY/hqdefault.jpg" alt="Watch the Setup Guide on YouTube" width="400"/>
+  </a>
+</p>
 ---
-
 ### Table of Contents
 - [Skin Previews](#skin-previews)
 - [How to Use These Skins in GamepadViewer](#how-to-use-these-skins-in-gamepadviewer)
