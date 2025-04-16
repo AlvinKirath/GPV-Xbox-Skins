@@ -1,6 +1,15 @@
 # Welcome to GPV-Xbox-Skins
 ---
 
+### Table of Contents
+- [Skin Previews](#skin-previews)
+- [How to Use These Skins in GamepadViewer](#how-to-use-these-skins-in-gamepadviewer)
+- [Additional Tips](#additional-tips)
+- [For OBS Users](#for-obs-users)
+- [Contact / Issues](#contact--issues)
+
+---
+
 ### Skin Previews
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
@@ -15,9 +24,7 @@
   <img src="Light%20Pink.png" width="200"/>
 </div>
 
-
 ---
-
 
 Hi there! Thanks for stopping by. This repository contains custom Xbox controller skins (PNG images) that can be used in [GamepadViewer](https://gamepadviewer.com/). Follow the instructions below to start using these skins!
 
@@ -59,14 +66,43 @@ Hi there! Thanks for stopping by. This repository contains custom Xbox controlle
 - **Updates:** If you add new skins or modify existing ones, simply repeat the steps above to get the updated direct link.
 
 ---
-For OBS Specifically use these two codes in Scene -> Browser 
-1 This in Custom CSS (downlaod txt copy and paste in your obs scene browser bottom custom css) 
-[Download Xbox Controller Styling CSS](https://github.com/AlvinKirath/GPV-Xbox-Skins/raw/main/obs%20css%20paste.txt?raw=true)
 
-2. This in broswer https://app.gpv.gg/?p=1
+## For OBS Users
+
+1. **Download the Xbox Controller Styling CSS:**
+
+   - To use the Xbox controller styling for OBS, follow these steps:
+     - Download the `obs css paste.txt` file from the repository.
+     - After downloading, you can open this file in any text editor or directly copy the code into the OBS Scene -> Browser **Custom CSS** section.
+
+   - [Download Xbox Controller Styling CSS](https://github.com/AlvinKirath/GPV-Xbox-Skins/raw/main/obs%20css%20paste.txt?raw=true)
+
+2. **Enter Browser URL in OBS:**
+   - Use the following URL to open the GPV (Gamepad Viewer) in your OBS Browser Source:  
+     - [GPV Browser Link](https://app.gpv.gg/?p=1)
+
+   - Add this link into your OBS browser source settings, and your custom controller skin will show up.
+
+---
+
+## How to Download and Use the Xbox Controller Styling CSS:
+
+1. **Download the Entire Repository as a ZIP:**
+   - Go to the [GitHub repository page](https://github.com/AlvinKirath/GPV-Xbox-Skins).
+   - Click on the green **"Code"** button.
+   - Select **"Download ZIP"** from the dropdown.
+
+2. **Extract the ZIP File:**
+   - After downloading, extract the ZIP file to your desired location on your computer.
+
+3. **Locate the `obs css paste.txt` File:**
+   - Once extracted, navigate to the `GPV-Xbox-Skins` folder.
+   - Open the `obs css paste.txt` file to use the Xbox Controller Styling CSS in your OBS setup.
+
+---
+
 ### Contact / Issues
 
 If you have any questions or run into any issues, feel free to open an [Issue](../../issues) in this repository. Thanks again for checking out these custom skins!
 
 **Happy Gaming!**
-
