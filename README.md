@@ -4,22 +4,23 @@
 ## 📸 Skin Previews
 
 ### 🧟 MKX - Ermac
-![MKX Ermac](MKX%20Ermac.png)
+![MKX Ermac](MKX%20Ermac.png =200x200)
 
 ### 😈 Devil May Cry 4
-![DMC4](DMC4.png)
+![DMC4](DMC4.png =200x200)
 
 ### 🤘 Avenged Sevenfold (A7X)
-![A7X](A7X.png)
+![A7X](A7X.png =200x200)
 
 ### 🌌 Galaxy Theme
-![Galaxy](galaxy.png)
+![Galaxy](galaxy.png =200x200)
 
 ### 🐺 The Witcher 3
-![TW3](TW3.png)
+![TW3](TW3.png =200x200)
 
 ### 🌸 Light Pink
-![Light Pink](Light%20Pink.png)
+![Light Pink](Light%20Pink.png =200x200)
+
 
 ---
 
